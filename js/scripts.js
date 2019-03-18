@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  $("#goal-button").click(function() {
-    $("#goal-list").append("<li class='list-item'>" + $("#new-goal").val() + "</li>");
-    $("#new-goal").val("");
+  $("#activity-button").click(function() {
+    $("#activity-list").append("<li class='list-item'>" + $("#new-activity").val() + "</li>");
+    $("#new-activity").val("");
   })
 })
