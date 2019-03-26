@@ -18,3 +18,12 @@ img {
 #recipelink {
   font-size: 150%
 }
+
+.light-background {
+  background-color: lightpink;
+}
+
+.dark-background {
+  background-color: darkblue;
+  color: lightblue;
+}
